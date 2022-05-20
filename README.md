@@ -3,4 +3,4 @@
 
 <a href="https://augustobrandao.github.io/Site-Android/android.html" target="_blank">Android Website Page</a>
 
-<img src="imagens/frame.png" height="250px" width="250px"> 
+<img src="imagens/frame.png" height="150px" width="150px"> 
